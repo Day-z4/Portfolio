@@ -55,6 +55,7 @@
 
 <b4> Here is our Series circuit. We also got our robot to move.</b4>
 
+</video>
 </div>
 </font>
 <head>
