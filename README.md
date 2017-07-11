@@ -25,7 +25,7 @@
 <p>My mom took this on snapchat.</p>
 <img src="file:///Users/daisymartinez/Desktop/Screen%20Shot%202017-06-27%20at%209.03.14%20AM.png" style="width:500px;height:350px;">
 
-<h4>Danté part 3</h4>
+<h2>Danté part 3</h2>
 <p>This is me stealing him from my friends house. He drove us to my house.</p>
 <img src="file:///Users/daisymartinez/Desktop/Screen%20Shot%202017-06-27%20at%209.08.39%20AM.png" style="width:350px;height:500px;">
 <br> <br>
