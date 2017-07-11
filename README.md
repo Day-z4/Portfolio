@@ -15,12 +15,12 @@
 <br> <br>
 <b3> I dont have any pictures of them. But I do have a picture of my friends dog. He is my favorite dog and his name is Danté. </b3>
 
-<h3>Danté</h3>
+<h2>Danté</h2>
 <tr>
 <th><img src="file:///Users/daisymartinez/Desktop/Screen%20Shot%202017-06-26%20at%203.41.25%20PM.png" style="width:350px;height:500px;"></th></tr>
 
 
-<h3>Danté part 2</h3>
+<h2>Danté part 2</h2>
 
 <p>My mom took this on snapchat.</p>
 <img src="file:///Users/daisymartinez/Desktop/Screen%20Shot%202017-06-27%20at%209.03.14%20AM.png" style="width:500px;height:350px;">
