@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-
 <body bgcolor="#ECF0E0">
 
 <font size="5.8" font face="Blagovest" color="#75858D">
