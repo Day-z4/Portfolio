@@ -44,7 +44,7 @@
 <br> <br>
 
 <font size="4.9" font face="Blagovest" color="#DCAAAC">
-<b4> Here is our Arduino Robot, we named her DANA. We had some projects using DANA, for example we had to make our robot light up and another project we had to make it "escape."</b4>
+<b4> Here is our Arduino Robot, we named her DANA. We had some projects using DANA, for example we had to make our robot light up and in another project we had to make it "escape."</b4>
 </font>
 
 <br><br>
@@ -52,6 +52,8 @@
   <source src="Dana.mov" type="video/mp4">
   <source src="Dana.mov" type="video/ogg">
 </video>
+
+
 
 
 
