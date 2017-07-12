@@ -38,11 +38,15 @@
 </font>
 
 <br><br>
-
+<font size="4.9" font face="Blagovest" color="#75858D">
 <h4>I didn’t think that this would be a serious portfolio.</h4>
+</font>
 <br> <br>
 
+<font size="4.9" font face="Blagovest" color="#DCAAAC">
 <b4> Here is our Arduino Robot, we named her DANA. We had some projects using DANA, for example we had to make our robot light up and another project we had to make it "escape."</b4>
+</font>
+
 <br><br>
 <video width="350" height="500" controls>
   <source src="Dana.mov" type="video/mp4">
