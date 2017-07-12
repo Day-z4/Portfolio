@@ -53,9 +53,5 @@
   <source src="Dana.mov" type="video/ogg">
 </video>
 
-
-
-
-
 </font>
 <head>
