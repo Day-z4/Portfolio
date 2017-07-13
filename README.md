@@ -4,8 +4,9 @@
 <body bgcolor="#ECF0E0">
 
 <div class="tab"><center>
-  <button class="tablinks" onclick="window.location.href='https://www.google.com';" id="myButton">ABOUT ME</button>
-</div class><center>
+  <button class="tablinks" onclick="window.location.href='https://day-z4.github.io/Portfolio/aboutme.html';" id="myButton">ABOUT ME</button>
+  <button class="tablinks" onclick="window.location.href='https://www.google.com';" id="myButton">PROJECTS</button>
+</div class></center>
 
 <font size="5.8" font face="Blagovest" color="#75858D">
 <center><h1>My Portfolio</center></h1>
